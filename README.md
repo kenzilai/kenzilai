@@ -1,10 +1,10 @@
-<section id="overview">
+<section>
     <h2> Github Overview <img src="assets\emojis\Bar Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align: -3px;"/></h2>
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenzilai&theme=react&hide_border=true&hide_title=true&card_width=300&layout=donut&langs_count=6" height="280" alt="languages graph" />
         <img src="https://github-readme-stats.vercel.app/api?&username=kenzilai&theme=react&hide_border=true&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&rank_icon=github" height="200" alt="stats graph" />
 </section>
-<section id="info">
+<section>
     <h2>
         Welcome to my GitHub page! <img src="assets\emojis\Waving Hand Light Skin Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" style="vertical-align: -2px;"/>
     </h2>
