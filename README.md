@@ -8,86 +8,29 @@
 Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Face" width="25" height="25" style="vertical-align: -3px;"/>
 
 <img src="assets\emojis\Man Superhero Light Skin Tone.png" alt="Superhero Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> I'm an interdisciplinary Full Stack Software Developer with the background in:
-<ul style="list-style-type: none;">
-    <li>
-        <img src="assets\emojis\Video Game.png" alt="Video Game" width="25" height="25" style="vertical-align: -3px;"/>
-        Game Development
-    </li>
-    <li>
-        <img src="assets\emojis\Artist Palette.png" alt="Artist Palette" width="25" height="25" style="vertical-align: -3px;"/>
-        3D Modeling
-    </li>
-</ul>
+- <img src="assets\emojis\Video Game.png" alt="Video Game" width="25" height="25" style="vertical-align: -3px;"/> Game Development
+- <img src="assets\emojis\Artist Palette.png" alt="Artist Palette" width="25" height="25" style="vertical-align: -3px;"/> 3D Modeling
 
 <img src="assets\emojis\Brain.png" alt="Brain" width="25" height="25" style="vertical-align: -3px;"/> I'm always curious to learn new things about programming and technologies!
-<ul style="list-style-type: none;">
-    <li>
-        <img src="assets\emojis\Flexed Biceps Light Skin Tone.png" alt="Flexed Biceps Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/>
-        I’m currently strengthening my
-        <img src="assets\emojis\Animated Java.svg" alt="Animated Java" width="25" height="25" style="vertical-align: -2px;"/>
-        <img src="assets\emojis\Animated Python.svg" alt="Animated Python" width="25" height="25" style="vertical-align: -3px;"/><img src="assets\emojis\Animated JavaScript.svg" alt="Animated JavaScript" width="35" height="35" style="vertical-align: -8px;"/>
-    </li>
-    <li>
-        <img src="assets\emojis\Seedling.png" alt="Seedling" width="25" height="25" style="vertical-align: -3px;"/>
-        I’m also learning
-        <img src="assets\emojis\Animated C++.svg" alt="Animated C++" width="25" height="25" style="vertical-align: -6px;"/>
-    </li>
-</ul>
+
+- <img src="assets\emojis\Flexed Biceps Light Skin Tone.png" alt="Flexed Biceps Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> I’m currently strengthening my <img src="assets\emojis\Animated Java.svg" alt="Animated Java" width="25" height="25" style="vertical-align: -2px;"/><img src="assets\emojis\Animated Python.svg" alt="Animated Python" width="25" height="25" style="vertical-align: -3px;"/><img src="assets\emojis\Animated JavaScript.svg" alt="Animated JavaScript" width="35" height="35" style="vertical-align: -8px;"/>
+- <img src="assets\emojis\Seedling.png" alt="Seedling" width="25" height="25" style="vertical-align: -3px;"/> I’m also learning <img src="assets\emojis\Animated C++.svg" alt="Animated C++" width="25" height="25" style="vertical-align: -6px;"/>
 
 <img src="assets\emojis\Fire.png" alt="Fire" width="25" height="25" style="vertical-align: -3px;"/> What I'm working on right now.
-<ul style="list-style-type: none;">
-    <li>
-        <img src="assets\emojis\Laptop.png" alt="Laptop" width="25" height="25" style="vertical-align: -3px;"/>
-        I’m building a
-        <img src="assets\emojis\Animated React.svg" alt="Animated React" width="25" height="25" style="vertical-align: -3px;"/>
-        frontend and
-        <img src="assets\emojis\Animated Django.svg" alt="Animated Django" width="25" height="25" style="vertical-align: -3px;"/>
-        <img src="assets\emojis\Animated Rest.svg" alt="Animated Rest" width="50" height="50" style="vertical-align: -16px;"/>
-        API backend fullstack project
-    </li>
-    <li>
-        <img src="assets\emojis\Open Book.png" alt="Open Book" width="25" height="25" style="vertical-align: -3px;"/>
-        I’m preparing for Master's Degree in Computer Science
-    </li>
-</ul>
+- <img src="assets\emojis\Laptop.png" alt="Laptop" width="25" height="25" style="vertical-align: -3px;"/> I’m building a <img src="assets\emojis\Animated React.svg" alt="Animated React" width="25" height="25" style="vertical-align: -3px;"/> frontend and <img src="assets\emojis\Animated Django.svg" alt="Animated Django" width="25" height="25" style="vertical-align: -3px;"/> <img src="assets\emojis\Animated Rest.svg" alt="Animated Rest" width="50" height="50" style="vertical-align: -16px;"/> API backend fullstack project
+- <img src="assets\emojis\Open Book.png" alt="Open Book" width="25" height="25" style="vertical-align: -3px;"/> I’m preparing for Master's Degree in Computer Science   
 
 <img src="assets\emojis\Person Tipping Hand Light Skin Tone.png" alt="Person Tipping Hand Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> Something about me.
-<ul style="list-style-type: none;">
-    <li>
-        <img src="assets\emojis\Statue of Liberty.png" alt="Statue of Liberty" width="25" height="25" style="vertical-align: -3px;"/>
-        I believe in Open Source
-    </li>
-    <li>
-        <img src="assets\emojis\Paw Prints.png" alt="Paw Prints" width="25" height="25" style="vertical-align: -3px;"/>
-        I love little furry paw friends
-    </li>
-</ul>
+- <img src="assets\emojis\Statue of Liberty.png" alt="Statue of Liberty" width="25" height="25" style="vertical-align: -3px;"/> I believe in Open Source
+- <img src="assets\emojis\Paw Prints.png" alt="Paw Prints" width="25" height="25" style="vertical-align: -3px;"/> I love little furry paw friends
 
 <img src="assets\emojis\Heart on Fire.png" alt="Heart on Fire" width="25" height="25" style="vertical-align: -3px;"/> Something I do in my leisure time.
-<ul style="list-style-type: none;">
-    <li>
-        <img src="assets\emojis\Technologist Light Skin Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/>
-        Learn new skills
-    </li>
-    <li>
-        <img src="assets\emojis\Alien Monster.png" alt="Alien Monster" width="25" height="25" style="vertical-align: -3px;"/>
-        Play video game
-    </li>
-</ul>
+- <img src="assets\emojis\Technologist Light Skin Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> Learn new skills
+- <img src="assets\emojis\Alien Monster.png" alt="Alien Monster" width="25" height="25" style="vertical-align: -3px;"/> Play video game
 
 <img src="assets\emojis\Folded Hands Light Skin Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> How to reach me?
-<ul style="list-style-type: none;">
-    <li>
-        <img src="assets\emojis\Briefcase.png" alt="Briefcase" width="25" height="25" style="vertical-align: -3px;"/>
-        Find me on
-        <a href="https://www.linkedin.com/in/kenzi-lai"><img src="assets\emojis\Linkedin.png" alt="Linkedin" width="20" height="20" style="vertical-align: -3px;"/></a>
-    </li>
-    <li>
-        <img src="assets\emojis\Inbox Tray.png" alt="Inbox Tray" width="25" height="25" style="vertical-align: -3px;"/>
-        Send me an
-        <img src="assets\emojis\E-Mail.png" alt="E-Mail" width="25" height="25" style="vertical-align: -6px;"/>
-    </li>
-</ul>
+- <img src="assets\emojis\Briefcase.png" alt="Briefcase" width="25" height="25" style="vertical-align: -3px;"/> Find me on <a href="https://www.linkedin.com/in/kenzi-lai"><img src="assets\emojis\Linkedin.png" alt="Linkedin" width="20" height="20" style="vertical-align: -3px;"/></a>
+- <img src="assets\emojis\Inbox Tray.png" alt="Inbox Tray" width="25" height="25" style="vertical-align: -3px;"/> Send me an <img src="assets\emojis\E-Mail.png" alt="E-Mail" width="25" height="25" style="vertical-align: -6px;"/>
 
 ## <img src="assets\emojis\Glowing Star.png" alt="Glowing Star" width="25" height="25" style="vertical-align:-2px;"/> Languages & Tools
 <table>
