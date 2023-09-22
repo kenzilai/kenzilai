@@ -18,6 +18,7 @@ Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Fac
         3D Modeling
     </li>
 </ul>
+
 <img src="assets\emojis\Brain.png" alt="Brain" width="25" height="25" style="vertical-align: -3px;"/> I'm always curious to learn new things about programming and technologies!
 <ul style="list-style-type: none;">
     <li>
@@ -32,6 +33,7 @@ Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Fac
         <img src="assets\emojis\Animated C++.svg" alt="Animated C++" width="25" height="25" style="vertical-align: -6px;"/>
     </li>
 </ul>
+
 <img src="assets\emojis\Fire.png" alt="Fire" width="25" height="25" style="vertical-align: -3px;"/> What I'm working on right now.
 <ul style="list-style-type: none;">
     <li>
@@ -48,6 +50,7 @@ Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Fac
         I’m preparing for Master's Degree in Computer Science
     </li>
 </ul>
+
 <img src="assets\emojis\Person Tipping Hand Light Skin Tone.png" alt="Person Tipping Hand Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> Something about me.
 <ul style="list-style-type: none;">
     <li>
@@ -59,6 +62,7 @@ Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Fac
         I love little furry paw friends
     </li>
 </ul>
+
 <img src="assets\emojis\Heart on Fire.png" alt="Heart on Fire" width="25" height="25" style="vertical-align: -3px;"/> Something I do in my leisure time.
 <ul style="list-style-type: none;">
     <li>
@@ -70,6 +74,7 @@ Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Fac
         Play video game
     </li>
 </ul>
+
 <img src="assets\emojis\Folded Hands Light Skin Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> How to reach me?
 <ul style="list-style-type: none;">
     <li>
