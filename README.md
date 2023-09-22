@@ -1,13 +1,13 @@
-## Github Overview <img src="assets\emojis\Bar Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align: -3px;"/></h2>
+## Github Overview <img src="assets\emojis\Bar Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align: -3px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenzilai&theme=react&hide_border=true&hide_title=true&card_width=300&layout=donut&langs_count=6" height="280" alt="languages graph" />
+
 <img src="https://github-readme-stats.vercel.app/api?&username=kenzilai&theme=react&hide_border=true&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&rank_icon=github" height="200" alt="stats graph" />
 
 ## Welcome to my GitHub page! <img src="assets\emojis\Waving Hand Light Skin Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" style="vertical-align: -2px;"/>
 
 Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Face" width="25" height="25" style="vertical-align: -3px;"/>
 
-<img src="assets\emojis\Man Superhero Light Skin Tone.png" alt="Superhero Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/>
-I'm an interdisciplinary Full Stack Software Developer with the background in:
+<img src="assets\emojis\Man Superhero Light Skin Tone.png" alt="Superhero Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> I'm an interdisciplinary Full Stack Software Developer with the background in:
 <ul style="list-style-type: none;">
     <li>
         <img src="assets\emojis\Video Game.png" alt="Video Game" width="25" height="25" style="vertical-align: -3px;"/>
@@ -18,8 +18,7 @@ I'm an interdisciplinary Full Stack Software Developer with the background in:
         3D Modeling
     </li>
 </ul>
-<img src="assets\emojis\Brain.png" alt="Brain" width="25" height="25" style="vertical-align: -3px;"/>
-I'm always curious to learn new things about programming and technologies!
+<img src="assets\emojis\Brain.png" alt="Brain" width="25" height="25" style="vertical-align: -3px;"/> I'm always curious to learn new things about programming and technologies!
 <ul style="list-style-type: none;">
     <li>
         <img src="assets\emojis\Flexed Biceps Light Skin Tone.png" alt="Flexed Biceps Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/>
@@ -33,8 +32,7 @@ I'm always curious to learn new things about programming and technologies!
         <img src="assets\emojis\Animated C++.svg" alt="Animated C++" width="25" height="25" style="vertical-align: -6px;"/>
     </li>
 </ul>
-<img src="assets\emojis\Fire.png" alt="Fire" width="25" height="25" style="vertical-align: -3px;"/>
-What I'm working on right now.
+<img src="assets\emojis\Fire.png" alt="Fire" width="25" height="25" style="vertical-align: -3px;"/> What I'm working on right now.
 <ul style="list-style-type: none;">
     <li>
         <img src="assets\emojis\Laptop.png" alt="Laptop" width="25" height="25" style="vertical-align: -3px;"/>
@@ -50,8 +48,7 @@ What I'm working on right now.
         I’m preparing for Master's Degree in Computer Science
     </li>
 </ul>
-<img src="assets\emojis\Person Tipping Hand Light Skin Tone.png" alt="Person Tipping Hand Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/>
-Something about me.
+<img src="assets\emojis\Person Tipping Hand Light Skin Tone.png" alt="Person Tipping Hand Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> Something about me.
 <ul style="list-style-type: none;">
     <li>
         <img src="assets\emojis\Statue of Liberty.png" alt="Statue of Liberty" width="25" height="25" style="vertical-align: -3px;"/>
@@ -62,8 +59,7 @@ Something about me.
         I love little furry paw friends
     </li>
 </ul>
-<img src="assets\emojis\Heart on Fire.png" alt="Heart on Fire" width="25" height="25" style="vertical-align: -3px;"/>
-<span>Something I do in my leisure time.</span>
+<img src="assets\emojis\Heart on Fire.png" alt="Heart on Fire" width="25" height="25" style="vertical-align: -3px;"/> Something I do in my leisure time.
 <ul style="list-style-type: none;">
     <li>
         <img src="assets\emojis\Technologist Light Skin Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/>
@@ -74,8 +70,7 @@ Something about me.
         Play video game
     </li>
 </ul>
-<img src="assets\emojis\Folded Hands Light Skin Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/>
-<span>How to reach me?</span>
+<img src="assets\emojis\Folded Hands Light Skin Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> How to reach me?
 <ul style="list-style-type: none;">
     <li>
         <img src="assets\emojis\Briefcase.png" alt="Briefcase" width="25" height="25" style="vertical-align: -3px;"/>
@@ -89,7 +84,7 @@ Something about me.
     </li>
 </ul>
 
-## <img src="assets\emojis\Glowing Star.png" alt="Glowing Star" width="25" height="25" style="vertical-align:-2px;"/> Languages & Tools</h2>
+## <img src="assets\emojis\Glowing Star.png" alt="Glowing Star" width="25" height="25" style="vertical-align:-2px;"/> Languages & Tools
 <table>
     <tr style="background-color: #242938">
         <td>
