@@ -1,8 +1,3 @@
-## Github Overview <img src="assets\emojis\Bar Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align: -3px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenzilai&theme=react&hide_border=true&hide_title=true&card_width=300&layout=donut&langs_count=6" height="280" alt="languages graph" />
-
-<img src="https://github-readme-stats.vercel.app/api?&username=kenzilai&theme=react&hide_border=true&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&rank_icon=github" height="200" alt="stats graph" />
-
 ## Welcome to my GitHub page! <img src="assets\emojis\Waving Hand Light Skin Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" style="vertical-align: -2px;"/>
 
 Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Face" width="25" height="25" style="vertical-align: -3px;"/>
@@ -13,7 +8,7 @@ Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Fac
 
 <img src="assets\emojis\Brain.png" alt="Brain" width="25" height="25" style="vertical-align: -3px;"/> I'm always curious to learn new things about programming and technologies!
 
-- <img src="assets\emojis\Flexed Biceps Light Skin Tone.png" alt="Flexed Biceps Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> I’m currently strengthening my <img src="assets\emojis\Animated Java.svg" alt="Animated Java" width="25" height="25" style="vertical-align: -2px;"/><img src="assets\emojis\Animated Python.svg" alt="Animated Python" width="25" height="25" style="vertical-align: -3px;"/><img src="assets\emojis\Animated JavaScript.svg" alt="Animated JavaScript" width="35" height="35" style="vertical-align: -8px;"/>
+- <img src="assets\emojis\Flexed Biceps Light Skin Tone.png" alt="Flexed Biceps Light Skin Tone" width="25" height="25" style="vertical-align: -3px;"/> I’m always strengthening my <img src="assets\emojis\Animated Java.svg" alt="Animated Java" width="25" height="25" style="vertical-align: -2px;"/><img src="assets\emojis\Animated Python.svg" alt="Animated Python" width="25" height="25" style="vertical-align: -3px;"/><img src="assets\emojis\Animated JavaScript.svg" alt="Animated JavaScript" width="35" height="35" style="vertical-align: -8px;"/>
 - <img src="assets\emojis\Seedling.png" alt="Seedling" width="25" height="25" style="vertical-align: -3px;"/> I’m also learning <img src="assets\emojis\Animated C++.svg" alt="Animated C++" width="25" height="25" style="vertical-align: -6px;"/>
 
 <img src="assets\emojis\Fire.png" alt="Fire" width="25" height="25" style="vertical-align: -3px;"/> What I'm working on right now.
@@ -121,3 +116,6 @@ Hi there! My name is Kenzi. <img src="assets\emojis\Nerd Face.png" alt="Nerd Fac
         </td>
     </tr>
 </table>
+
+## Most Used Languages <img src="assets\emojis\Bar Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align: -3px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenzilai&theme=react&hide_border=true&hide_title=true&card_width=300&layout=donut&langs_count=6" height="280" alt="languages graph" />
